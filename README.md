@@ -7,7 +7,7 @@ This project involves forecasting the Airlines Passengers data set. The goal is 
  
 ```python
 import pandas as pd 
-import numpy as np
+import numpy as np 
 from numpy import sqrt
 from pandas import Grouper
 from pandas import DataFrame
