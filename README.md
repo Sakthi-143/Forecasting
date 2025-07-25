@@ -1,4 +1,4 @@
-# Forecasting 
+ # Forecasting 
 # Forecasting Assignment         
      
 This project involves forecasting the Airlines Passengers data set. The goal is to prepare a document for each model explaining how many dummy variables have been created and the RMSE value for each model. Finally, we will decide which model to use for forecasting.
